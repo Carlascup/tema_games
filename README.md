@@ -1,4 +1,4 @@
 tema_games
 ==========
 
-Materias apresentados nas reuniões de tema games.
+Materiais apresentados nas reuniões de tema games.
